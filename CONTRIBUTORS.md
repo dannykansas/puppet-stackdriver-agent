@@ -34,3 +34,5 @@ In chronological order:
     * Code restructure & bugfixes
     * Memcached plugin support
 
+* Danny Fowler <dan@logickc.com>
+    * Debian bugfixes
